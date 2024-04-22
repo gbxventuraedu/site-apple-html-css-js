@@ -1,7 +1,10 @@
 # Página do Produto iPhone 13 Pro
  
 Este projeto consiste em uma página de produto para o iPhone 13 Pro, onde os usuários podem selecionar diferentes cores do iPhone e visualizar a imagem correspondente.
- 
+
+## Deploy vercel
+[Clique aqui para visitar o projeto](https://site-apple-html-css-js.vercel.app)
+
 ## Funcionalidades
 - Os usuários podem selecionar diferentes cores do iPhone clicando nos botões de seleção de cores.
 - A cor selecionada é destacada visualmente.
@@ -18,7 +21,7 @@ Este projeto consiste em uma página de produto para o iPhone 13 Pro, onde os us
  
 ## Como executar o projeto
 1. Clone o repositório para o seu ambiente local:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/gbxventuraedu/site-apple-html-css-js)
  
 2. Navegue até o diretório do projeto:
 cd nome-do-repositorio
