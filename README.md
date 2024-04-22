@@ -21,7 +21,7 @@ Este projeto consiste em uma página de produto para o iPhone 13 Pro, onde os us
  
 ## Como executar o projeto
 1. Clone o repositório para o seu ambiente local:
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/gbxventuraedu/site-apple-html-css-js)
+git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/gbxventuraedu/site-apple-html-css-js](https://github.com/gbxventuraedu/site-apple-html-css-js)
  
 2. Navegue até o diretório do projeto:
 cd nome-do-repositorio
